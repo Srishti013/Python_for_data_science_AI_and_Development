@@ -10,3 +10,5 @@
 
 #### 4) [Tuples](/Tuples.ipynb)
 
+#### 5) [Dictionaries](/Dictionaries.ipynb)
+
