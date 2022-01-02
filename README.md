@@ -18,3 +18,5 @@
 
 #### 8) [Loops](/Loops.ipynb)
 
+#### 9) [Functions](/Functions.ipynb)
+
