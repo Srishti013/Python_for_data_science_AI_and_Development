@@ -4,5 +4,5 @@
 - Data Types
 - Variables
 
-#### 2) [Strings](/Strings)
+#### 2) [Strings](/Strings.ipynb)
 
