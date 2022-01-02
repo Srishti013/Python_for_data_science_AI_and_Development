@@ -8,3 +8,5 @@
 
 #### 3) [Lists](/Lists.ipynb)
 
+#### 4) [Tuples](/Tuples.ipynb)
+
