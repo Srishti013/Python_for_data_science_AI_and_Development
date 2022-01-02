@@ -16,3 +16,5 @@
 
 #### 7) [Conditions](/Conditions.ipynb)
 
+#### 8) [Loops](/Loops.ipynb)
+
