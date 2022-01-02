@@ -14,3 +14,5 @@
 
 #### 6) [Sets](/Sets.ipynb)
 
+#### 7) [Conditions](/Conditions.ipynb)
+
