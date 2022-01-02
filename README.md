@@ -12,3 +12,5 @@
 
 #### 5) [Dictionaries](/Dictionaries.ipynb)
 
+#### 6) [Sets](/Sets.ipynb)
+
