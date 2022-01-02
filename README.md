@@ -28,4 +28,4 @@
 
 #### 13) [WriteFile](/WriteFile.ipynb)
 
-#### 14) [Pandas](/Pandas.ipynb)
+#### 14) [Pandas](/Pd.ipynb)
