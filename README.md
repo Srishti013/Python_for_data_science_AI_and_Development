@@ -6,3 +6,5 @@
 
 #### 2) [Strings](/Strings.ipynb)
 
+#### 3) [Lists](/Lists.ipynb)
+
