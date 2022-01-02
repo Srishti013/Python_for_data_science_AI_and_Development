@@ -23,3 +23,5 @@
 #### 10) [ExcecptionHandling](/ExcecptionHandling.ipynb)
 
 #### 11) [Classes](/Classes.ipynb)
+
+#### 12) [ReadFile](/ReadFile.ipynb)
