@@ -20,3 +20,5 @@
 
 #### 9) [Functions](/Functions.ipynb)
 
+#### 10) [ExcecptionHandling](/ExcecptionHandling.ipynb)
+
