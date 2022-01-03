@@ -31,3 +31,5 @@
 #### 14) [Pandas](/Pd.ipynb)
 
 #### 15) [Numpy1D](/Numpy1D.ipynb)
+
+#### 16) [Numpy2D](/Numpy2D.ipynb)
